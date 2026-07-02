@@ -1,0 +1,42 @@
+SQL DATA ANALYSIS REPORT
+DecodeLabs Internship - Project 3
+
+
+BUSINESS OVERVIEW (Query 12)
+  Total Orders        : 1,200
+  Total Revenue       : $1,264,761.96
+  Avg Order Value     : $1,053.97
+  Smallest Order      : $11.39
+  Largest Order       : $3,456.40
+  Total Items Sold    : 3,535
+  Unique Products     : 7
+  Payment Methods     : 5
+  Marketing Channels  : 5
+
+KEY SQL FINDINGS
+  Top Product         : Chair ($195,620.11)
+  Top Referral Source : Instagram (259 orders)
+  Top Payment Method  : Online (258 orders)
+
+SQL TECHNIQUES DEMONSTRATED
+  Query 1  : SELECT * (Basic data retrieval)
+  Query 2  : COUNT, DISTINCT (Volume metrics)
+  Query 3  : SUM, AVG, MIN, MAX, ROUND (Financial metrics)
+  Query 4  : WHERE (Row filtering)
+  Query 5  : GROUP BY + aggregations (Product analysis)
+  Query 6  : Subquery for percentage calculation
+  Query 7  : ORDER BY DESC + LIMIT (Top-N ranking)
+  Query 8  : WHERE + GROUP BY combined
+  Query 9  : HAVING (Post-aggregation filtering)
+  Query 10 : SUBSTR for date grouping
+  Query 11 : Multi-metric channel analysis
+  Query 12 : Executive summary dashboard
+
+BUSINESS RECOMMENDATIONS
+  1. Focus inventory on top-performing products
+  2. Invest marketing budget in best referral channels
+  3. Monitor high-value orders for VIP customer patterns
+  4. Ensure payment method diversity to reduce risk
+  5. Use monthly trends for seasonal planning
+
+
